@@ -12,9 +12,12 @@
   - ایشوهایی مانند اضافه کردن documentation یا پاسخ به سوالات کاربران پذیرفته نیست.
   - لازم نیست pull request لزوما merge شود.
 - **منابع:**
-  - آشنایی با نحوه‌ٔ ایجاد pull request و کلیات open source contributing در Github: 
-    - [Getting Started with Contributing to Open-Source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
-    - [Linking a Pull Request to an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
+  <div dir="rtl">
+    - آشنایی با نحوه‌ٔ ایجاد pull request و کلیات open source contributing در Github: 
+      - [Getting Started with Contributing to Open-Source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
+      - [Linking a Pull Request to an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
+  </div>
+
 
 ## Stackoverflow
 - **کار مورد نظر:**
