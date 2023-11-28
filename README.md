@@ -105,7 +105,6 @@
 61. https://github.com/hashicorp/consul
 62. https://github.com/go-co-op/gocron
 
-
 ## خلاصه
 
 - در این تمرین، هر گروه کافی‌ست ۳ سوال در سایت Stackoverflow پاسخ دهند و ۶ issue در Github انجام دهند و لینک آن‌ها در یک فایل txt به همراه شماره دانشجویی اعضای گروه قرار دهند و در کوئرا آپلود کنند.
