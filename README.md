@@ -18,7 +18,6 @@
       - [Linking a Pull Request to an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
   </div>
 
-
 ## Stackoverflow
 - **کار مورد نظر:**
   - پیدا کردن و پاسخ دادن به ۳ سوال در سایت Stackoverflow.
