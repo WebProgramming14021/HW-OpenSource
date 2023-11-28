@@ -88,6 +88,23 @@
 44. https://github.com/jamesallardice/Placeholders.js
 45. https://github.com/fullcalendar/fullcalendar
 46. https://github.com/dataarts/dat.gui
+1. https://github.com/sourcegraph/conc
+2. https://github.com/stretchr/testify
+3. https://github.com/kubernetes/client-go
+4. https://github.com/opencontainers/image-spec
+5. https://github.com/containerd/containerd
+6. https://github.com/redis/go-redis
+7. https://github.com/aquasecurity/trivy-operator
+8. https://github.com/go-playground/validator
+9. https://github.com/spf13/cobra
+10. https://github.com/casbin/casbin
+11. https://github.com/influxdata/telegraf
+12. https://github.com/pingcap/tidb
+13. https://github.com/opencost/opencost
+14. https://github.com/kubesphere/kubesphere
+15. https://github.com/hashicorp/consul
+16. https://github.com/go-co-op/gocron
+
 
 ## خلاصه
 
