@@ -14,7 +14,7 @@
 - **منابع:**
   - آشنایی با نحوه‌ٔ ایجاد pull request و کلیات open source contributing در Github: 
     - [Getting Started with Contributing to Open-Source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
-    - [برای گیت‌هاب](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
+    - [linking-a-pull-request-to-an-issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
 
 ## Stackoverflow
 - **کار مورد نظر:**
