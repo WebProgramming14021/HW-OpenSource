@@ -24,7 +24,7 @@
   - پاسخ‌ها باید اصیل و نوشته شده توسط خود شما باشند.
 - **منابع:**
   - آشنایی با نحوهٔ پاسخ‌دهی مناسب در Stackoverflow:
-    - [Answer-a-Question-on-Stack-Overflow](https://www.wikihow.com/Answer-a-Question-on-Stack-Overflow)
+    - [Answer a Question on Stackoverflow](https://www.wikihow.com/Answer-a-Question-on-Stack-Overflow)
 
 ## نکات عمومی
 - تمرین به صورت گروهی و در گروه‌های ۳ نفره انجام می‌شود.
