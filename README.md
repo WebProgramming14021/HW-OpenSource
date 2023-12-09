@@ -19,8 +19,6 @@
 	- نحوه‌ٔ ایجاد pull request برای یک ایشو:
       - [Linking a Pull Request to an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
-
-
 ## توضیحات
 
 - در ﻣﺮﺣﻠﻪ اول ﺷﻤﺎ ﺑﺎﯾﺪ ﺑﺎ جست‌و‌جو در GitHub و ﯾﺎ ﺳﺎﯾﺮ ﻣﺨﺎزن ﮐﺪﻫﺎی ﻣﺘﻦﺑﺎز اﻗﺪام ﺑﻪ اﻧﺘﺨﺎب issueهای ﻣﻨﺎﺳﺐ کنید.
@@ -96,8 +94,6 @@
 61. https://github.com/hashicorp/consul
 62. https://github.com/go-co-op/gocron
 
-
-
 # Stackoverflow
 - **فعالیت مورد نظر:**
   - پیدا کردن و پاسخ دادن به ۳ سوال کاربران در سایت Stackoverflow.
@@ -107,7 +103,6 @@
 - **منابع:**
   - آشنایی با نحوهٔ پاسخ‌دهی مناسب در Stackoverflow:
     - [Answer a Question on Stackoverflow](https://www.wikihow.com/Answer-a-Question-on-Stack-Overflow)
-
 
 ## نکات عمومی
 - تمرین به صورت گروهی و در گروه‌های ۳ نفره انجام می‌شود.
